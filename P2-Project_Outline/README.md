@@ -1,10 +1,4 @@
-# Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
-
-## Submission Instructions
+# The Help Community
 
 ### Overview
 The Help Community site allows individual users to set up community volunteer events.  Users can both set up events and join events others have already set up.  An example of an event might be to get a group of people together to help do yard work for the elderly or disabled or to go clean a local park that has been neglected.  The overall goal is to help build better communities via positive voluntary action. 
