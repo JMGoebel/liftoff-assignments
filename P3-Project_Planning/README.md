@@ -7,9 +7,11 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+- **Wireframes** - [All Wireframes](./THE-Wireframes.pdf)
+- **Welcome page** - [Welcome Page](./welcome-page.pdf)
+- **Signup page** - [Signup Page](./signup-page.pdf)
+- **Search page** - [Search Page](./search-page.pdf)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+- **Pivotal Tracker** - [The Help Community's tracker](https://www.pivotaltracker.com/n/projects/2158166)
